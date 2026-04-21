@@ -1,0 +1,1102 @@
+[
+  {
+    "round": 0,
+    "num_agents": 3,
+    "avg_reward": -140.59444444444443,
+    "avg_loss": 0.010387207230399783,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 1,
+    "num_agents": 3,
+    "avg_reward": -92.59833333333331,
+    "avg_loss": 0.014992167743750742,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 2,
+    "num_agents": 3,
+    "avg_reward": -93.27333333333331,
+    "avg_loss": 0.02690381864266884,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 3,
+    "num_agents": 3,
+    "avg_reward": -90.37666666666665,
+    "avg_loss": 0.038409640915277925,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 4,
+    "num_agents": 3,
+    "avg_reward": -92.98111111111109,
+    "avg_loss": 0.04877631020214823,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 5,
+    "num_agents": 3,
+    "avg_reward": -93.03055555555557,
+    "avg_loss": 0.05706145788956848,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 6,
+    "num_agents": 3,
+    "avg_reward": -85.235,
+    "avg_loss": 0.05973622881910867,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 7,
+    "num_agents": 3,
+    "avg_reward": -92.69166666666666,
+    "avg_loss": 0.06978572911893328,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 8,
+    "num_agents": 3,
+    "avg_reward": -91.99611111111112,
+    "avg_loss": 0.07119369650156133,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 9,
+    "num_agents": 3,
+    "avg_reward": -83.96277777777776,
+    "avg_loss": 0.07251038805167709,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 10,
+    "num_agents": 3,
+    "avg_reward": -85.02777777777779,
+    "avg_loss": 0.07435405094383492,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 11,
+    "num_agents": 3,
+    "avg_reward": -83.82111111111111,
+    "avg_loss": 0.07815347535742653,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 12,
+    "num_agents": 3,
+    "avg_reward": -85.11000000000001,
+    "avg_loss": 0.07649710442146494,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 13,
+    "num_agents": 3,
+    "avg_reward": -84.97500000000001,
+    "avg_loss": 0.07104816222873828,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 14,
+    "num_agents": 3,
+    "avg_reward": -81.20833333333331,
+    "avg_loss": 0.07285243081032401,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 15,
+    "num_agents": 3,
+    "avg_reward": -84.22666666666667,
+    "avg_loss": 0.07665720520748032,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 16,
+    "num_agents": 3,
+    "avg_reward": -84.47666666666663,
+    "avg_loss": 0.07847140679135918,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 17,
+    "num_agents": 3,
+    "avg_reward": -78.23222222222223,
+    "avg_loss": 0.08025987769063148,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 18,
+    "num_agents": 3,
+    "avg_reward": -83.70444444444448,
+    "avg_loss": 0.07988773832822012,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 19,
+    "num_agents": 3,
+    "avg_reward": -84.86777777777776,
+    "avg_loss": 0.08291784543647535,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 20,
+    "num_agents": 3,
+    "avg_reward": -86.85500000000002,
+    "avg_loss": 0.07683151967202623,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 21,
+    "num_agents": 3,
+    "avg_reward": -80.37277777777776,
+    "avg_loss": 0.0795621298532933,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 22,
+    "num_agents": 3,
+    "avg_reward": -79.04222222222224,
+    "avg_loss": 0.07459754569352502,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 23,
+    "num_agents": 3,
+    "avg_reward": -79.31833333333331,
+    "avg_loss": 0.07909774962812662,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 24,
+    "num_agents": 3,
+    "avg_reward": -84.67,
+    "avg_loss": 0.07464583552339012,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 25,
+    "num_agents": 3,
+    "avg_reward": -81.28888888888888,
+    "avg_loss": 0.0771585581668963,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 26,
+    "num_agents": 3,
+    "avg_reward": -84.72666666666665,
+    "avg_loss": 0.07856475939353308,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 27,
+    "num_agents": 3,
+    "avg_reward": -77.98222222222223,
+    "avg_loss": 0.07684501367414164,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 28,
+    "num_agents": 3,
+    "avg_reward": -83.06944444444441,
+    "avg_loss": 0.07694642212345369,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 29,
+    "num_agents": 3,
+    "avg_reward": -79.35944444444446,
+    "avg_loss": 0.0801494630664173,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 30,
+    "num_agents": 3,
+    "avg_reward": -81.01277777777776,
+    "avg_loss": 0.07507008495740593,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 31,
+    "num_agents": 3,
+    "avg_reward": -76.5388888888889,
+    "avg_loss": 0.07693638786052664,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 32,
+    "num_agents": 3,
+    "avg_reward": -77.74444444444445,
+    "avg_loss": 0.0778830160976698,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 33,
+    "num_agents": 3,
+    "avg_reward": -75.8161111111111,
+    "avg_loss": 0.07815258455566233,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 34,
+    "num_agents": 3,
+    "avg_reward": -79.50722222222221,
+    "avg_loss": 0.07377262533642352,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 35,
+    "num_agents": 3,
+    "avg_reward": -81.35166666666667,
+    "avg_loss": 0.07695569487909476,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 36,
+    "num_agents": 3,
+    "avg_reward": -76.9388888888889,
+    "avg_loss": 0.07588586665482984,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 37,
+    "num_agents": 3,
+    "avg_reward": -75.28666666666666,
+    "avg_loss": 0.07583407620692419,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 38,
+    "num_agents": 3,
+    "avg_reward": -74.55222222222223,
+    "avg_loss": 0.07690464685774512,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 39,
+    "num_agents": 3,
+    "avg_reward": -75.47833333333335,
+    "avg_loss": 0.07793251673121833,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 40,
+    "num_agents": 3,
+    "avg_reward": -75.66666666666666,
+    "avg_loss": 0.07330556229739967,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 41,
+    "num_agents": 3,
+    "avg_reward": -75.63555555555554,
+    "avg_loss": 0.07542544293631281,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 42,
+    "num_agents": 3,
+    "avg_reward": -72.20777777777778,
+    "avg_loss": 0.07002642170008685,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 43,
+    "num_agents": 3,
+    "avg_reward": -75.61111111111113,
+    "avg_loss": 0.07293139586328633,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 44,
+    "num_agents": 3,
+    "avg_reward": -73.4583333333333,
+    "avg_loss": 0.0698574273712519,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 45,
+    "num_agents": 3,
+    "avg_reward": -75.48222222222222,
+    "avg_loss": 0.07117370989639311,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 46,
+    "num_agents": 3,
+    "avg_reward": -76.68722222222223,
+    "avg_loss": 0.07083290428958004,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 47,
+    "num_agents": 3,
+    "avg_reward": -74.17833333333333,
+    "avg_loss": 0.07137518744605283,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 48,
+    "num_agents": 3,
+    "avg_reward": -78.2227777777778,
+    "avg_loss": 0.07200190428385718,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 49,
+    "num_agents": 3,
+    "avg_reward": -74.96055555555554,
+    "avg_loss": 0.0692485924028895,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 50,
+    "num_agents": 3,
+    "avg_reward": -76.41111111111113,
+    "avg_loss": 0.06968578479045795,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 51,
+    "num_agents": 3,
+    "avg_reward": -74.06944444444447,
+    "avg_loss": 0.07303685433283034,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 52,
+    "num_agents": 3,
+    "avg_reward": -74.3983333333333,
+    "avg_loss": 0.06775131733105001,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 53,
+    "num_agents": 3,
+    "avg_reward": -74.48666666666668,
+    "avg_loss": 0.07021711035062456,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 54,
+    "num_agents": 3,
+    "avg_reward": -74.23666666666666,
+    "avg_loss": 0.07153944061085997,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 55,
+    "num_agents": 3,
+    "avg_reward": -73.14611111111115,
+    "avg_loss": 0.0701001176962422,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 56,
+    "num_agents": 3,
+    "avg_reward": -74.70055555555557,
+    "avg_loss": 0.06899449894359956,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 57,
+    "num_agents": 3,
+    "avg_reward": -74.76611111111113,
+    "avg_loss": 0.0729438703895236,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 58,
+    "num_agents": 3,
+    "avg_reward": -75.72555555555557,
+    "avg_loss": 0.06986141600490858,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 59,
+    "num_agents": 3,
+    "avg_reward": -74.01944444444443,
+    "avg_loss": 0.0734494826109666,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 60,
+    "num_agents": 3,
+    "avg_reward": -73.02333333333334,
+    "avg_loss": 0.06990040426297735,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 61,
+    "num_agents": 3,
+    "avg_reward": -73.07666666666665,
+    "avg_loss": 0.06900663209251233,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 62,
+    "num_agents": 3,
+    "avg_reward": -72.5483333333333,
+    "avg_loss": 0.06692405944431408,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 63,
+    "num_agents": 3,
+    "avg_reward": -73.16777777777779,
+    "avg_loss": 0.06296923251719111,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 64,
+    "num_agents": 3,
+    "avg_reward": -73.05666666666666,
+    "avg_loss": 0.06676946354202097,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 65,
+    "num_agents": 3,
+    "avg_reward": -71.1988888888889,
+    "avg_loss": 0.06678854495493902,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 66,
+    "num_agents": 3,
+    "avg_reward": -67.68833333333332,
+    "avg_loss": 0.069184499922105,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 67,
+    "num_agents": 3,
+    "avg_reward": -68.90499999999999,
+    "avg_loss": 0.06783232701373183,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 68,
+    "num_agents": 3,
+    "avg_reward": -68.19111111111113,
+    "avg_loss": 0.06985638865631902,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 69,
+    "num_agents": 3,
+    "avg_reward": -69.50388888888891,
+    "avg_loss": 0.07121119275068243,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 70,
+    "num_agents": 3,
+    "avg_reward": -67.79833333333332,
+    "avg_loss": 0.06469831981282266,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 71,
+    "num_agents": 3,
+    "avg_reward": -69.83555555555554,
+    "avg_loss": 0.06531152381509957,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 72,
+    "num_agents": 3,
+    "avg_reward": -66.90777777777778,
+    "avg_loss": 0.0646166674171885,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 73,
+    "num_agents": 3,
+    "avg_reward": -67.20833333333334,
+    "avg_loss": 0.06397977422250227,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 74,
+    "num_agents": 3,
+    "avg_reward": -70.37611111111111,
+    "avg_loss": 0.06262799535360601,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 75,
+    "num_agents": 3,
+    "avg_reward": -74.80111111111111,
+    "avg_loss": 0.06191378674728589,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 76,
+    "num_agents": 3,
+    "avg_reward": -69.80777777777779,
+    "avg_loss": 0.06419887891297953,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 77,
+    "num_agents": 3,
+    "avg_reward": -65.55722222222222,
+    "avg_loss": 0.059940784123933145,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 78,
+    "num_agents": 3,
+    "avg_reward": -70.36555555555555,
+    "avg_loss": 0.06565728507780781,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 79,
+    "num_agents": 3,
+    "avg_reward": -66.62666666666668,
+    "avg_loss": 0.06760373068869942,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 80,
+    "num_agents": 3,
+    "avg_reward": -64.91333333333333,
+    "avg_loss": 0.06550669055690782,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 81,
+    "num_agents": 3,
+    "avg_reward": -72.27611111111112,
+    "avg_loss": 0.06615954734902414,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 82,
+    "num_agents": 3,
+    "avg_reward": -67.97333333333334,
+    "avg_loss": 0.06531107837489496,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 83,
+    "num_agents": 3,
+    "avg_reward": -67.14222222222222,
+    "avg_loss": 0.06329507554105172,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 84,
+    "num_agents": 3,
+    "avg_reward": -71.66777777777783,
+    "avg_loss": 0.06385060184738701,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 85,
+    "num_agents": 3,
+    "avg_reward": -64.55777777777779,
+    "avg_loss": 0.06331728286679006,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 86,
+    "num_agents": 3,
+    "avg_reward": -69.70333333333335,
+    "avg_loss": 0.06281414231958075,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 87,
+    "num_agents": 3,
+    "avg_reward": -65.78388888888891,
+    "avg_loss": 0.06267565186704613,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 88,
+    "num_agents": 3,
+    "avg_reward": -67.86999999999999,
+    "avg_loss": 0.06578184081396708,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 89,
+    "num_agents": 3,
+    "avg_reward": -68.18388888888887,
+    "avg_loss": 0.06000195126825323,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 90,
+    "num_agents": 3,
+    "avg_reward": -68.91555555555557,
+    "avg_loss": 0.06305677088184489,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 91,
+    "num_agents": 3,
+    "avg_reward": -64.07222222222221,
+    "avg_loss": 0.0667990599743401,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 92,
+    "num_agents": 3,
+    "avg_reward": -64.24333333333334,
+    "avg_loss": 0.06447701533842418,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 93,
+    "num_agents": 3,
+    "avg_reward": -72.11888888888889,
+    "avg_loss": 0.059865023522223865,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 94,
+    "num_agents": 3,
+    "avg_reward": -69.63222222222221,
+    "avg_loss": 0.06468000009500732,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 95,
+    "num_agents": 3,
+    "avg_reward": -63.2788888888889,
+    "avg_loss": 0.06292688088181118,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 96,
+    "num_agents": 3,
+    "avg_reward": -67.00166666666667,
+    "avg_loss": 0.06495228248130945,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 97,
+    "num_agents": 3,
+    "avg_reward": -67.56722222222224,
+    "avg_loss": 0.06304835903768738,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 98,
+    "num_agents": 3,
+    "avg_reward": -68.05555555555556,
+    "avg_loss": 0.06411961289950542,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "round": 99,
+    "num_agents": 3,
+    "avg_reward": -66.27166666666666,
+    "avg_loss": 0.06106084450303267,
+    "agents": [
+      "A",
+      "B",
+      "C"
+    ]
+  }
+]

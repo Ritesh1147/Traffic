@@ -1,0 +1,28 @@
+{
+  "num_agents": 3,
+  "agent_ids": [
+    "A",
+    "B",
+    "C"
+  ],
+  "num_rounds": 100,
+  "local_steps_per_round": 600,
+  "learn_every": 2,
+  "min_agents_per_round": 2,
+  "state_dim": 8,
+  "action_dim": 4,
+  "lr": 0.0005,
+  "gamma": 0.95,
+  "epsilon_start": 1.0,
+  "epsilon_end": 0.05,
+  "epsilon_decay": 0.99,
+  "buffer_capacity": 20000,
+  "batch_size": 128,
+  "hidden_size": 128,
+  "target_update_tau": 0.01,
+  "use_sumo": false,
+  "save_dir": "results",
+  "checkpoint_every": 10,
+  "eval_every": 5,
+  "seed": 42
+}
